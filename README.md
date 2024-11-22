@@ -13,3 +13,5 @@ Redux + Redux Toolkit – do zarządzania stanem aplikacji.
 TypeScript – zapewnienie bezpieczeństwa typów w całej aplikacji.
 Material-UI (MUI) – do stylowania interfejsu użytkownika i komponentów.
 JSONPlaceholder API – do pobierania danych o użytkownikach.
+
+Link do aplikacji Live: https://precious-lebkuchen-270c2d.netlify.app/ .

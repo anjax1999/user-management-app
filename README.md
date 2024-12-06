@@ -17,6 +17,7 @@ PL: **User Management App** to aplikacja webowa stworzona za pomocą React i Red
 * JSONPlaceholder API – do pobierania danych o użytkownikach.
 
 
+
 > Link do aplikacji Live: https://precious-lebkuchen-270c2d.netlify.app/ .
 
 ---
@@ -39,5 +40,5 @@ ENG: **User Management App** is a web application built using React and Redux (w
 
 ---
 
-Live application link: https://precious-lebkuchen-270c2d.netlify.app/
+> Live application link: https://precious-lebkuchen-270c2d.netlify.app/
 

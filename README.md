@@ -16,7 +16,7 @@ PL: **User Management App** to aplikacja webowa stworzona za pomocą React i Red
 * Material-UI (MUI) – do stylowania interfejsu użytkownika i komponentów.
 * JSONPlaceholder API – do pobierania danych o użytkownikach.
 
-
+---
 
 > Link do aplikacji Live: https://precious-lebkuchen-270c2d.netlify.app/ .
 
